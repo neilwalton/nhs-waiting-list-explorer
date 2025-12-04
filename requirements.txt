@@ -7,3 +7,19 @@ source("R/utils_dates.R")
 library(reactable)
 library(htmlwidgets)
 library(htmltools) 
+
+# COMMAND LINE install of packages (mac/linux)
+> Rscript -e 'install.packages(c("rvest", "httr", "tidyr", "dplyr", "readxl", "reactable", "htmlwidgets", "htmltools"), repos="https://cran.rstudio.com/")'
+
+# COMMAND LINE install of pandoc (mac)
+> brew install pandoc
+
+# Linux (Ubuntu/Debian):
+> sudo apt-get update
+> sudo apt-get install pandoc
+
+# Linux (Fedora/RHEL/CentOS):
+> sudo dnf install pandoc
+
+# Windows (manual download):
+# Download installer from https://pandoc.org/installing.html

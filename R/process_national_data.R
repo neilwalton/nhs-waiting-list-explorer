@@ -333,6 +333,7 @@ process_incomplete_stats <- function(
 ) {
     if (!dir.exists(incomplete_dir)) stop("directory not found: ", incomplete_dir)
     incomplete_files <- list.files(incomplete_dir, full.names = TRUE)
+    incomplete_files <- incomplete_files[!grepl("^.*/RTT", incomplete_files)]
     if (verbose) print(incomplete_files)
 
     results_list <- lapply(incomplete_files, function(fp) {

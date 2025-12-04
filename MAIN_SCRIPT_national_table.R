@@ -16,7 +16,6 @@
 # 5. Finally we render the table using reactable adding filtering and sorting
 
 
-
 ########################
 # 0a. Required libraries
 ########################
