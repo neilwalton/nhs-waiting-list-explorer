@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.20)  4 DEC 2025 13:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.20)  4 DEC 2025 13:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -737,36 +737,47 @@ Dictionary: translator-theorem-dictionary, Language: English
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<qr_small.png, id=52, 411.5375pt x 411.5375pt>
+File: qr_small.png Graphic file (type png)
+<use qr_small.png>
+Package pdftex.def Info: qr_small.png  used on input line 69.
+(pdftex.def)             Requested size: 119.80544pt x 119.80122pt.
+<qr_strategyunit_viewer.png, id=53, 531.9875pt x 531.9875pt>
+File: qr_strategyunit_viewer.png Graphic file (type png)
+<use qr_strategyunit_viewer.png>
+Package pdftex.def Info: qr_strategyunit_viewer.png  used on input line 69.
+(pdftex.def)             Requested size: 119.80544pt x 119.80566pt.
+
 
 [2
 
-]
-<WL_overtime.png, id=59, 1139.25626pt x 653.44125pt>
-File: WL_overtime.png Graphic file (type png)
-<use WL_overtime.png>
-Package pdftex.def Info: WL_overtime.png  used on input line 68.
-(pdftex.def)             Requested size: 342.2953pt x 196.32303pt.
-
+ <./qr_small.png (PNG copy)> <./qr_strategyunit_viewer.png (PNG copy)>]
 
 [3
 
- <./WL_overtime.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 104.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 104.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 104.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-)
+]
+<WL_overtime.png, id=77, 1139.25626pt x 653.44125pt>
+File: WL_overtime.png Graphic file (type png)
+<use WL_overtime.png>
+Package pdftex.def Info: WL_overtime.png  used on input line 85.
+(pdftex.def)             Requested size: 342.2953pt x 196.32303pt.
+
 
 [4
 
-]
+ <./WL_overtime.png>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 121.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 121.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 121.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
 
 [5
 
@@ -775,39 +786,37 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 [6
 
 ]
-<Waiting_List_Conference.png, id=108, 1299.85625pt x 762.85pt>
-File: Waiting_List_Conference.png Graphic file (type png)
-<use Waiting_List_Conference.png>
-Package pdftex.def Info: Waiting_List_Conference.png  used on input line 170.
-(pdftex.def)             Requested size: 308.06367pt x 180.79463pt.
-
 
 [7
 
- <./Waiting_List_Conference.png>]
+]
+<Waiting_List_Conference.png, id=127, 1299.85625pt x 762.85pt>
+File: Waiting_List_Conference.png Graphic file (type png)
+<use Waiting_List_Conference.png>
+Package pdftex.def Info: Waiting_List_Conference.png  used on input line 187.
+(pdftex.def)             Requested size: 308.06367pt x 180.79463pt.
+
 
 [8
 
-]
+ <./Waiting_List_Conference.png>]
 
 [9
 
 ]
-<qr_small.png, id=140, 411.5375pt x 411.5375pt>
-File: qr_small.png Graphic file (type png)
-<use qr_small.png>
-Package pdftex.def Info: qr_small.png  used on input line 223.
-(pdftex.def)             Requested size: 119.80544pt x 119.80122pt.
-<qr_strategyunit_viewer.png, id=141, 531.9875pt x 531.9875pt>
-File: qr_strategyunit_viewer.png Graphic file (type png)
-<use qr_strategyunit_viewer.png>
-Package pdftex.def Info: qr_strategyunit_viewer.png  used on input line 223.
-(pdftex.def)             Requested size: 119.80544pt x 119.80566pt.
-
 
 [10
 
- <./qr_small.png (PNG copy)> <./qr_strategyunit_viewer.png (PNG copy)>]
+]
+File: qr_small.png Graphic file (type png)
+<use qr_small.png>
+Package pdftex.def Info: qr_small.png  used on input line 241.
+(pdftex.def)             Requested size: 119.80544pt x 119.80122pt.
+File: qr_strategyunit_viewer.png Graphic file (type png)
+<use qr_strategyunit_viewer.png>
+Package pdftex.def Info: qr_strategyunit_viewer.png  used on input line 241.
+(pdftex.def)             Requested size: 119.80544pt x 119.80566pt.
+
 
 [11
 
@@ -844,6 +853,10 @@ Package pdftex.def Info: qr_strategyunit_viewer.png  used on input line 223.
 [19
 
 ]
+
+[20
+
+]
 \tf@nav=\write6
 \openout6 = `HACA_Walton.nav'.
 
@@ -859,21 +872,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `HACA_Walton.out' has not changed.
-(rerunfilecheck)             Checksum: 0753CDBA195E81269852F781EF779291;562.
+(rerunfilecheck)             Checksum: 9EEAA68D2EB827574C04E7772B16B57E;701.
  ) 
 Here is how much of TeX's memory you used:
- 24805 strings out of 473190
- 491775 string characters out of 5715799
+ 24814 strings out of 473190
+ 491856 string characters out of 5715799
  858963 words of memory out of 5000000
- 47524 multiletter control sequences out of 15000+600000
+ 47530 multiletter control sequences out of 15000+600000
  573521 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,123p,466b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on HACA_Walton.pdf (19 pages, 880951 bytes).
+Output written on HACA_Walton.pdf (20 pages, 882078 bytes).
 PDF statistics:
- 301 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 317 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
