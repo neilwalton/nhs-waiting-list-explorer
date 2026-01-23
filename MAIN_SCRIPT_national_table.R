@@ -178,6 +178,10 @@ final_table[, 5:ncol(final_table)] <- lapply(final_table[, 5:ncol(final_table)],
 final_table$Relative_Improvement_in_18_weeks <-
   (final_table$Total_within_18_weeks_year_ago - final_table$Total_within_18_weeks) / final_table$Total_within_18_weeks_year_ago
 
+final_table$Change_in_18_weeks <-
+  (final_table$Total_within_18_weeks_year_ago - final_table$Total_within_18_weeks) 
+
+
 # Calculate Improvement in 92nd percentile
 final_table$percentile_improvement <- (final_table$percentile_92 - final_table$`92nd_percentile_year_ago`) 
 
